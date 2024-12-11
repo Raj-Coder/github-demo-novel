@@ -1,0 +1,6 @@
+Chapter 1
+    - Config Username, UserEmail
+    - list of current directory
+    - print working directory
+    - Creating / Deletting files
+    - Creating / Deleting folders
