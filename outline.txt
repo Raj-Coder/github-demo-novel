@@ -17,3 +17,7 @@ To deal with this problem, Centralized Version Control Systems (CVCSs) were deve
     such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, 
     and a number of clients that check out files from that central place. For many years, this has been 
     the standard for version control.
+
+These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, 
+    and a number of clients that check out files from that central place. For many years, this has been 
+    the standard for version control.
